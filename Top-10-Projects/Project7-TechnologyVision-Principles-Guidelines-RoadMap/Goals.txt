@@ -1,0 +1,3 @@
+- To provide Engineering Vision, Matrix and Roadmap for Technology Department of the Organisation
+- To provide framework for Technology decision making and design philosophies
+- To provide principles and guidelines for Solution Architecting and Solution Engineering

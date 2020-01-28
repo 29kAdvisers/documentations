@@ -1,0 +1,4 @@
+- To provide a self-sustained technology infrastructure environment for apt functioning of existing processes in parallel, along with oppurtunies for scaling and for detailed project execution of Solution Architecting for the Investment Advisory Domain
+- To provide process definitions relating to 29k's Maintenance, Support and Technology Infrastructure Operations
+- To ensure DevOps setup and cost-effective solutions for Software Testing & Deployment in On-Prem and Cloud environments
+- To ensure Asset Management and facilitate procurement related to Technology

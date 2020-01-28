@@ -1,0 +1,37 @@
+Milestones & Path: 
+0. Lead Time for Basic Survey and Planning
+1. Employee & Recruitment Policies Definitions
+2. Customer, Information Security & Legal Regulatory Policies Definitions
+3. Operational Policies & SLA Definitions etc
+4. OrgStructure
+5. Process Scoping & Roadmap Designs
+6. Process Objectives, Implementation Plan & Scheduling
+7. Process Maturity Guaging Mechanism Design
+
+Effort Estimations (Staffing & Manpower): 
+MileStone0 - Guru & Chaitra
+MileStone1 - 1 Content Writer + 1 Reviewer
+MileStone2 - 1 Content Writer + 1 Reviewer
+MileStone3 - 1 Content Writer + 1 Reviewer
+MileStone4 - Chaitra & Shamshad
+MileStone5 - Guru & Chaitra
+MileStone6 - Guru & Chaitra 
+MileStone7 - Guru & Chaitra
+
+Timeline Estimations: 
+MileStone0 - 5 Man-Days
+MileStone1 - 20 Man-Days (16 for research-compilation, 4 for reviewing-feedback-correction)
+MileStone2 - 20 Man-Days (16 for research-compilation, 4 for reviewing-feedback-correction)
+MileStone3 - 20 Man-Days (16 for research-compilation, 4 for reviewing-feedback-correction)
+MileStone4 - 5 Man-Days
+MileStone5 - 5 processes X 20 Man-Days = 100 Man-Days for completion (incremental delivery) 
+MileStone6 - 5 processes X 5 Man-Days = 25 Man-Days
+MileStone7 - 5 processes X 5 Man-Days = 25 Man-Days
+
+Budget Estimations: 
+Policies: 
+Content Writer Charges for ~50 days = 25000/month
+Reviewer for ~15 days = Inhouse Review
+Processes: 
+Guru, Chaitra Roles - Can be negotiated ;) 
+

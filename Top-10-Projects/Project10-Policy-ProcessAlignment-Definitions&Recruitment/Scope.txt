@@ -1,0 +1,43 @@
+Policies:- 
+Customers:
+- Privacy
+- Credit - types of memberships etc
+- Confidentiality
+- Fee & Service Charge Policies
+Employees: 
+- Employment Classifications - Contractual & Dedicated Engagements for Projects
+- Timekeeping & Pay
+- Equal Oppurtunity, Objectives, Performance Review Policy - Yearly/semi-anually
+- Workplace Safety, Health, Practises
+- Employee Conduct, Attendance, Leave and Punctuality
+- Organizational Structure
+Recruitment: 
+- Hiring & Interview - timing, platform, schedule, background-checks, industry regulation disclosures, rating metrics
+- Induction
+- Starter Pack & Resource allocation
+- Compensation & Employee Benefits
+- Termination of Service
+General: 
+- Digital Engagement Policies
+- Information Security Policies - Access Control and use of Resources
+- Operation Support, SLAs, Escalation Matrix
+- GDPR, Legal Regulations Policies, Data Retention Policies
+For more references: https://resources.workable.com/company-policies/ 
+
+Processes:- 
+Starting with: 
+- Customer Acquisition & Marketing
+- HR & Finance (Accounting)
+- Technology & Product Development
+- Quality & Product/Service Delivery
+- Management
+Aiming towards: 
+- Customer Acquisition (Sales)
+- Customer Strategy & Relationships (Marketing)
+- Financial Analysis, Reporting, & Capital Management
+- Quality, Process Improvement & Change Management
+- Employee Development & Satisfaction (HR)
+- Management Responsibility
+- Product Development, Product/Service Delivery
+- Accounting Management
+- Technology

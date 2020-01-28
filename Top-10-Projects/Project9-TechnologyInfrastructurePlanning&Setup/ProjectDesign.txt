@@ -1,0 +1,23 @@
+MileStones & Path: 
+1. Product/Service/Tools Product Listing, Procurement Procedure and related implementation and documentation
+2. Internal Server Setup - Hypervising, and related planning, design and setup with Disaster Recovery
+3. Cloud Competitor Analytics - Resource & related Contingency Planning
+4. Employee Resource Allocation and related Policy making & implementation
+5. Infrastructure Costing, and Spend Analytics process definition
+6. Infrastructure Management Process Support Policy & setup
+
+Effort Estimations (Staffing & Manpower): 
+A continuous and evoling process
+Each milestone can be handled in parallel with minimum/low dependency
+Setup would involve dependency on 3rd Party/Vendors as Stakeholders, effective timelines can only be deduced after detailed breakdown
+Post the complete setup and implementation - An infrastructure Team of at least 2 members until the org holds upto 100 employees. 
+Post which an agile team would be the best fit with size deducing the stability and frequencies of org's changes. 
+
+Timeline Estimations: 
+Continous Implementatation with parallel developments. Office Server Setup to be ready within 4 months time, meanwhile the requirement of 
+rest of the policies and setup can be completed within the next 9-10 months. 
+
+Budget Estimations: 
+These are ball-park estimates EXCLUDING Hardware and related maintenance-
+Current Costing    ~20LPA (for 10 employees)
+Estimated Costing  ~40LPA (for upto 100 employees)

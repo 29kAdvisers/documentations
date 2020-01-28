@@ -1,0 +1,18 @@
+Milestones & Path: 
+1. Process based high level flow
+2. Detailed Sub-Domain definitions for all Processes
+3. Modular split of API's & services (micro) for all sub-domains and their abstractions
+4. High Level Architecture for all micro-services
+5. Detailed Architecture for all micro-services
+6. Data Flow Diagrams (High Level & Detailed)
+7. Component Diagram
+8. UML Diagrams
+
+Effort Estimations (Staffing & Manpower): 
+1 design resource + 2 Subject Matter Experts from Finance/Invest Advisory Domain (weekly 2-3 hours of availability)
+
+Timeline Estimations: 
+Overall All diagrams can be completed in 4-5 months depending upon the availability of supportive resources
+
+Budget Estimations: 
+SME's depending upon market analysis, design resource to be picked up as a fresher

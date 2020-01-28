@@ -1,0 +1,19 @@
+MileStones & Path: 
+1. Data Model for Onboarding process
+2. Data Model for Investment & Planning process
+3. Data Model for Investment Related Operations(execution) process
+4. Data Model for Maintenance process
+5. Data Normalisation
+
+Effort Estimations (Staffing & Manpower): 
+1 DB design for reviewing after each Data Model is developed
+
+Timeline Estimations: 
+MileStone1 - 15 Man-Days
+MileStone2 - 15 Man-Days
+MileStone3 - 15 Man-Days
+MileStone4 - 15 Man-Days
+MileStone5 - 20 Man-Days
+
+Budget Estimations: 
+DB Design Review to be done by Expert

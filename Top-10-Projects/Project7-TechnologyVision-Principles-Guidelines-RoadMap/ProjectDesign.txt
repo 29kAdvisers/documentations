@@ -1,0 +1,13 @@
+MileStones & Path: 
+1. Sharepoint site for Organisation, System Listing, SDLC-Agile Manifesto as Process, Roadmap Definitions
+2. Implement Ticketing for inter-departmental communications, and KPI metrics design and implementation
+3. API and Tech Stack, Technology Matrix Framework Design
+4. System Maintenance and related detailing
+5. Budget Forecasting & Handling for Techonology dept
+
+Effort Estimations (Staffing & Manpower): 
+CTO Role
+
+Timeline Estimations: 
+Requires detailed study and research on state-of-the-art Technology implementations
+

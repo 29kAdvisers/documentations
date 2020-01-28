@@ -1,0 +1,30 @@
+MileStones and Paths: 
+1. Web-Design and DDL for 29k
+2. Web-Layout Planning and Content Design and Management
+3. Web Development, Implementation, Testing and Hosting
+4. SEO Application, Meta-Tagging, Search Ranking
+5. Content Blogging
+6. Digital Art Direction
+
+Effort Estimations (Staffing & Manpower): 
+MileStone1 - 1/2 Web-Designer(s)
+MileStone2 - 1 Content Designer
+MileStone3 - 1 Angular Developer
+MileStone4 - 1 Content Writer, 1 Digital Marketing Expert
+MileStone5 - 1 Content Writer
+MileStone6 - 1 Art Director
+
+Timeline Estimations: 
+MileStone1 - 2 Months - Dependency with Web-Designer
+MileStone2 - 20 Man-Days
+MileStone3 - Around 10 Sprint - Continuous and Incremental Delivery
+MileStone4 - 20 Man-Days
+MileStone5 - Continuous Process
+MileStone6 - Based on Contracted Projects - Continuous and Incremental Delivery
+
+Budget Estimations: 
+1 Web-Designer(Contract)                     ~1L - one time investment
+1 Content Writer(Permanent)
+1 Digital Marketing Expert(Permanent)
+1 Art Director(Contractual)
+1 Web Developer(Permanent)

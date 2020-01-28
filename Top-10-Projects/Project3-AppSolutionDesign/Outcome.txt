@@ -1,0 +1,8 @@
+- Solution to the Investment Advisory Domain with following design documents: 
+	- Modular Architecture Diagram
+	- Load Simulation Diagram for all Modules
+	- High Level Architecture for all Modules
+	- Detailed Architecture for all Modules
+	- Finalized Tech-Stack that is to be used 
+	- Component Diagrams 
+	- Data-Flow Diagram - High Level and Detailed

@@ -1,0 +1,15 @@
+Foundation: 
+1. Policy-ProcessAlignment-Definitions&Recruitment
+2. TechnologyVision-Principles-Guidelines-RoadMap
+3. WebDesign-DDL-Implementation&SEO
+4. Stockal-AppMaturity
+5. TaskAutomations&Scaling
+
+Core: 
+1. TechnologyInfrastructurePlanning&Setup
+2. Reporting
+3. DataModeling
+
+Performance: 
+1. AppSolutionDesign
+2. Agile&DigitalMarketing

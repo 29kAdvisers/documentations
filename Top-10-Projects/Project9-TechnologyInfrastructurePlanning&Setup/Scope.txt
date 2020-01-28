@@ -1,0 +1,9 @@
+Technology Infrastructure: 
+- Employee Resource Allocation (System Requirements, Maintenance(Repair), Contingency Planning, timelines for allocation, Vendor Management, Usage Policy) and mechanism for implementation/enforcement
+- Office Server Setup - For Internal Website hosting, Application Deployment and Testing, Disaster Recovery Planning, Server Contingency & Design, Shared Drive, Databases, Network & Communications
+- Product Procurement - Software/Hardware/Service Procurement Process Implementation, Documentation & Blacklisting/Whitelisting
+- 24x7 Infrastructure Support & Issue Management, Change Management Policies
+- Infrastructure Spend Analytics and Operational Cost Reduction
+- Cloud Setup and Management - Production Deployment strategies, Site Reliability, Costing
+- Periodic Penetration Tests
+- Periodic Upgrades, End-of-Support Management

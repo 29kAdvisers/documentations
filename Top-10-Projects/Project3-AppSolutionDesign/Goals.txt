@@ -1,0 +1,2 @@
+- to design a scalable, thin, extendable, performant, portable micro-service based solution to the process of Investment Advisory Domain
+- adapt and implement using the c4 model

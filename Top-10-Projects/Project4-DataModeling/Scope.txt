@@ -1,0 +1,2 @@
+- Data Model for Investment Advisory End-to-End process
+- Data Model for Analytics (secondary ware-houses) - which will be used only later

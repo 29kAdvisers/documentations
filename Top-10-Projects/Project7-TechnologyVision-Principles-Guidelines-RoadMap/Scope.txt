@@ -1,0 +1,9 @@
+- Define Technology Vision & Roadmap
+- Define Technology Matrix
+- Define and Maintain Technology Systems
+- Define Technology Processes
+- Setup Sharepoint/Company Internal Communication Web Portal
+- Define As-Is and Proposed Technology Landscape
+- Ticketing 
+- API and Endpoint, and Technology Standards and Decision Making Frameworks
+- Budgeting for technology
